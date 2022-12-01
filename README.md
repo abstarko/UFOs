@@ -5,7 +5,7 @@ The purpose of this project is to allow users to filter for UFO sightings with m
 
 ## Results
 The original code that I wrote in the module only filtered the data by date and would filter by clicking a button. The project called for a more extensive way to filter through the data, whether wanting to look up sightings just by a city or by using multiple filters to find a certain sighting. The finaized filter section is below (as you can see I chose just to filter by the State of TX):
-![image.png](Desktop/UFOs/image.png)
+![table.png](//UFOs/table.png)
 
 
 ## Summary 
